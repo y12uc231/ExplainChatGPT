@@ -1,9 +1,11 @@
 # Approach 1 : Let's ask ChatGPT itself
 
 **Satya**
+
 write a doctor report for a patient with high sugar level
 
 **ChatGPT**
+
 Patient Name: John Doe
 Date: January 21, 2023
 
@@ -25,18 +27,22 @@ Overall, it is important for the patient to closely monitor and control his bloo
 
 
 **Satya**
+
 why did you write that report?
 
 **ChatGPT**
+
 I wrote that report as a response to your prompt asking me to "write a doctor report for a patient with high sugar level." As a language model, my purpose is to assist users in generating human-like text based on the prompts given to me. In this case, I provided an example of what a doctor report for a patient with high sugar level might look like, including relevant information such as medical history, lab results, diagnosis, treatment, and follow-up recommendations.
 
 
 
 
 **Satya**
+
 But why did you choose this example?
 
 **ChatGPT**
+
 As a language model, I don't have personal preferences or experiences, so I don't "choose" examples. I generate a response based on the information and patterns in the text I've been trained on. In this case, my response was generated based on patterns in the text that I've seen during my training.
 
 I tried to provide a general example of a doctor report that includes all the important information that should be included in a report of a patient with high sugar level, such as patient's name, date, medical history, examination, lab results, diagnosis, treatment, and follow-up.
@@ -45,18 +51,22 @@ I tried to provide a general example of a doctor report that includes all the im
 
 
 **Satya**
+
 what examples were you trained on?
 
 **ChatGPT**
+
 As a language model, I was trained on a large dataset of text from the internet, which includes a wide variety of text types and topics. This dataset includes medical reports, scientific articles, news articles, books, websites, and other forms of text. I was trained to recognize patterns and structures in this text, so that I can generate coherent and grammatically correct responses to the prompts given to me. Therefore, I was able to generate this report based on the patterns and structures I have learned on medical reports.
 
 
 
 
 **Satya**
+
 give me some examples you were trained on
 
 **ChatGPT**
+
 As a language model, I was trained on a massive dataset of text from the internet. Some examples of the types of text I was trained on include:
 
 Medical reports and journal articles
