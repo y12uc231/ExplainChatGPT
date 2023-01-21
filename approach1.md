@@ -1,6 +1,6 @@
 # Approach 1 : Let's ask ChatGPT itself
 
-** -- Satya -- **
+** Satya **
 
 write a doctor report for a patient with high sugar level
 
