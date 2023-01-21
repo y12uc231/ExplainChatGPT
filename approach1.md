@@ -1,6 +1,6 @@
 # Approach 1 : Let's ask ChatGPT itself
 
-**Satya**
+** -- Satya -- **
 
 write a doctor report for a patient with high sugar level
 
@@ -26,7 +26,7 @@ Overall, it is important for the patient to closely monitor and control his bloo
 
 
 
-**Satya**
+** -- Satya -- **
 
 why did you write that report?
 
@@ -37,7 +37,7 @@ I wrote that report as a response to your prompt asking me to "write a doctor re
 
 
 
-**Satya**
+** -- Satya -- **
 
 But why did you choose this example?
 
@@ -50,7 +50,7 @@ I tried to provide a general example of a doctor report that includes all the im
 
 
 
-**Satya**
+** -- Satya -- **
 
 what examples were you trained on?
 
@@ -61,7 +61,7 @@ As a language model, I was trained on a large dataset of text from the internet,
 
 
 
-**Satya**
+** -- Satya -- **
 
 give me some examples you were trained on
 
